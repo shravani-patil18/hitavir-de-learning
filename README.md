@@ -23,4 +23,4 @@ This repository contains learning materials and code examples for:
 3. Practice with the exercises.
 
 ## Author
-Created by HitaVir Tech - Batch 5
+Created by HitaVir Tech - Batch 6
